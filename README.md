@@ -5,16 +5,17 @@
 
 Personal page: *On development*
 
-About me
+#About me
 
 - 🎤 I am Frontend Developer passionate about web design.
 - 🛸 Computer Systems Engineer from IPN ESCOM.
+- 📘 Passionate about tech and art, trying to learn everyday something new.
 
 
 ### Other places you can find me 
 
 - 📧 [Send me an email](ricardoaxelgd@gmail.com)
-- 👔[LinkedIn](https://www.linkedin.com/in/ricardoaxel/)
+- 👔 [LinkedIn](https://www.linkedin.com/in/ricardoaxel/)
 
 
 ### Technologies & Tools
