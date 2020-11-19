@@ -39,5 +39,5 @@ Personal page: *On development*
 
 ## What do i do on my spare time 😃
 - I like to learn stuff about Game Design and GameDev
-- I have a [band](https://www.linkedin.com/in/ricardoaxel/)
+- I have a [band](https://dotzd.bandcamp.com/)
 - I record & mix bands
