@@ -14,7 +14,7 @@ Personal page: *On development*
 
 ### Other places you can find me 
 
-- 📧 [Send me an email](ricardoaxelgd@gmail.com)
+- 📧 Send me an email (ricardoaxelgd@gmail.com)
 - 👔 [LinkedIn](https://www.linkedin.com/in/ricardoaxel/)
 
 
