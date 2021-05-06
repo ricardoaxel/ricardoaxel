@@ -1,7 +1,7 @@
 ### Hi there, I'm Axel (Or Ashel) 👋
 
 
-Personal page: *On development*
+[Personal page:](https://ricardoaxel.github.io/potfolio/)
 
 #About me
 
