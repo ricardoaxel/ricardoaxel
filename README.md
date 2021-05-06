@@ -1,7 +1,5 @@
 ### Hi there, I'm Axel (Or Ashel) 👋
 
-[![HitCount](http://hits.dwyl.com/ricardoaxel/ricardoaxel.svg)](http://hits.dwyl.com/ricardoaxel/ricardoaxel)
-
 
 Personal page: *On development*
 
