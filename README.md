@@ -1,11 +1,8 @@
 ### Hi there, I'm Axel (Or Ashel) 👋
 
-
-[My Portfolio!](https://ricardoaxel.github.io/potfolio/)
-
 #About me
 
-- 🎤 I am Frontend Developer passionate about web design with 4 years of experience.
+- 🎤 I am Frontend Developer passionate about web design with 5 years of experience.
 - 🛸 Computer Systems Engineer from IPN ESCOM.
 - 📘 Passionate about tech and art, trying to learn everyday something new.
 
