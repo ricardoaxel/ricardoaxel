@@ -1,34 +1,32 @@
-### Hi there, I'm Axel (Or Ashel) 👋
+# Axel García (Ashel)
 
-#About me
+**Software Engineer III at Change.org** · Mexico City
 
-- 🎤 I am Frontend Developer passionate about web design with 5 years of experience.
-- 🛸 Computer Systems Engineer from IPN ESCOM.
-- 📘 Passionate about tech and art, trying to learn everyday something new.
+I build web products at the intersection of engineering, design, and social impact. Currently focused on frontend systems that help people create change at scale.
 
+## What I do
 
-### Other places you can find me 
+- Frontend architecture for high-traffic civic platforms
+- Design systems, component libraries, and accessible UI
+- AI-assisted engineering workflows and developer tooling
+- Side projects where code meets art, music, and data visualization
 
-- 📧 Send me an email (ricardoaxelgd@gmail.com)
-- 👔 [LinkedIn](https://www.linkedin.com/in/ricardoaxel/)
+## Tech I work with
 
+**Frontend:** TypeScript, React, Next.js, Redux, NX, Emotion, Material UI, HTML/CSS  
+**Backend & Tools:** Node.js, Python, PHP, Git, AWS (Lambda, Lex, SNS, S3, Transcribe)  
+**Creative:** WebGL, Canvas, generative visuals, interactive portfolios
 
-### Technologies & Tools
-- 🌐Frontend: 
-![](https://img.shields.io/badge/HTML-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/CSS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Javascript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Typescript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/React-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Redux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/NX-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Emotion-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/MaterialUI-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-- ⌨️Other Languages
-![](https://img.shields.io/badge/Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=5c567a)
-![](https://img.shields.io/badge/PHP-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=5c567a)
-- ⚙️Other Tools
-![](https://img.shields.io/badge/NodeJS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=24224f)
-![](https://img.shields.io/badge/Visual_Studio_Code-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=24224f)
-![](https://img.shields.io/badge/Git-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=24224f)
-###
+## Featured projects
+
+- **[ashel-hub](https://github.com/ricardoaxel/ashel-hub)** — Music portfolio with dynamic theming, soundwave animation, and bilingual i18n
+- **GBM for Advisors** — Financial advisory web platform built with NX monorepos, Redux Toolkit, and Jest
+- **LINDA** — Business intelligence dashboard with data visualization (Plotly, Recharts)
+- **Petto** — React Native + Android app for pet adoption and lost-pet tracking
+- **Telephone Switch** — AWS-powered telephony router (Lex, Lambda, SNS, Transcribe)
+
+## Find me elsewhere
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ricardoaxel/)
+- 🎨 [Portfolio](https://ricardoaxel.github.io/ashel-hub/)
+- 📧 [ricardoaxelgd@gmail.com](mailto:ricardoaxelgd@gmail.com)
